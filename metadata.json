@@ -1,0 +1,6 @@
+{
+  "name": "College Event Landing Page",
+  "description": "A premium, responsive landing page for the official college event hosted by the Department of Computer Science & Engineering, featuring integrated student portal login and interactive dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
